@@ -1,2 +1,3 @@
 # hello-world
-repository with my ideas
+
+This repository contains cool things made by python3
